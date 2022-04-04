@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 import Book from "../Book/Book";
 
 const Home = () => {
@@ -43,14 +44,21 @@ const Home = () => {
       </div>
       <div>
         <h1 className="mt-20 text-center text-4xl font-semibold">
-          Customar Review({books.length})
+          Customar Review({books.slice(0, 3).length})
         </h1>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 justify-items-center">
-          {books.map((book) => (
+          {books.slice(0, 3).map((book) => (
             <Book key={book.id} book={book} />
           ))}
         </div>
-        <p className="bg-slate-300 mt-10 ml-20 text-cyan-500 p-3 rounded-xl font-semibold shadow-cyan-600 mt-14 px-0 text-center mb-32">Review all</p>
+        <div className=" items-center justify-center flex">
+          <Link
+            to="/review"
+            className="bg-slate-300 mt-10 ml-20 text-2xl text-cyan-500 p-5 px-60 rounded-xl font-semibold shadow-cyan-600 mt-14 px-0 text-center mb-32 navigate(`/review`)"
+          >
+            See All Review
+          </Link>
+        </div>
       </div>
     </>
   );
