@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Book shop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was live view [Link](https://elaborate-youtiao-acd8bf.netlify.app).
 
 ## Available Scripts
 
