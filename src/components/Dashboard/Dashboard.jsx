@@ -23,10 +23,7 @@ const Dashboard = () => {
       .then((data) => setDatas(data));
   }, []);
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 justify-between gap-10">
-      {/* {datas.map((data, index) => (
-        <Chart key={data.index} data={data} />
-      ))} */}
+    <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 justify-between gap-10">
       <div className=" border-2 p-11">
         <LineChart width={400} height={400} data={datas}>
           <Line type="monotone" dataKey="sell" sstroke="#8884d8" />

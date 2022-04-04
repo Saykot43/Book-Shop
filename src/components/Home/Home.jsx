@@ -30,9 +30,6 @@ const Home = () => {
               a leaf and each side of a leaf is a page.
             </p>
           </div>
-          <button className="bg-slate-300 mt-10 ml-20 text-cyan-500 p-3 rounded-xl font-semibold shadow-cyan-600">
-            Live demo
-          </button>
         </div>
         <div className="mr-10 justify-center">
           <img
@@ -40,6 +37,11 @@ const Home = () => {
             src="https://st2.depositphotos.com/2769299/7314/i/950/depositphotos_73146765-stock-photo-a-stack-of-books-on.jpg"
             alt=""
           />
+        </div>
+        <div>
+          <button className="bg-gradient-to-r from-cyan-500 to-blue-500 mt-3 ml-20 hover:bg-zinc-50 text-green-300 font-bold p-3 rounded-xl px-7 shadow-cyan-600">
+            Live demo
+          </button>
         </div>
       </div>
       <div>
@@ -54,7 +56,7 @@ const Home = () => {
         <div className=" items-center justify-center flex">
           <Link
             to="/review"
-            className="bg-slate-300 mt-10 ml-20 text-2xl text-cyan-500 p-5 px-60 rounded-xl font-semibold shadow-cyan-600 mt-14 text-center mb-32 navigate(`/review`)"
+            className="bg-gradient-to-r from-cyan-500 to-blue-500 ml-20 text-2xl text-green-300 p-5 px-80 rounded-xl font-semibold shadow-cyan-600 mt-14 text-center mb-32"
           >
             See All Review
           </Link>
