@@ -5,6 +5,7 @@
         "img": "https://d1jpltibqvso3j.cloudfront.net/images/product/329000/328712/250X360/328712.png",
         "author" : "আরিফ আজাদ",
         "comment" : "This book is very important for knowledge",
+        "comment_name": "Rahim",
         "authorImage": "https://mzamin.com/news_image/214299_rarra.jpg",
         "price":"330",
         "rating": "4"
@@ -16,6 +17,7 @@
         "img": "https://d1jpltibqvso3j.cloudfront.net/images/product/329000/328957/250X360/328957.png",
         "author" : "মুহিব খান",
         "comment" : "This book is very important for muslim religious",
+        "comment_name": "Karim",
         "authorImage": "https://ds.rokomari.store/rokomari110/people/0a4212552_34499.jpg",
         "price":"200",
         "rating": "5"
@@ -27,6 +29,7 @@
         "img": "https://d1jpltibqvso3j.cloudfront.net/images/product/328000/327907/250X360/327907.png",
         "author" : "রোকসানা আক্তার রুপী",
         "comment" : "Book is good ",
+        "comment_name": "Rabaya",
         "authorImage": "https://ds.rokomari.store/rokomari110/people/78d51b46c_81131.jpg",
         "price":"300",
         "rating": "3"
@@ -38,6 +41,7 @@
         "img": "https://d1jpltibqvso3j.cloudfront.net/images/product/328000/327421/250X360/327421.png",
         "author" : "ফারজানা মিতু",
         "comment" : "This book is good for earn knowledge in science area",
+        "comment_name": "Laili",
         "authorImage": "https://i0.wp.com/dhakajournal.com/wp-content/uploads/2016/02/Mitu.jpg?resize=526%2C445",
         "price":"210",
         "rating": "3.5"
@@ -49,6 +53,7 @@
         "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586618343l/52147543._SY475_.jpg",
         "author" : "ফাহাম আব্দুস সালাম",
         "comment" : "Good and intersting",
+        "comment_name": "Nabila",
         "authorImage": "https://opinion.bdnews24.com/bangla/wp-content/uploads/Faham-p.jpg",
         "price":"270",
         "rating": "3"
@@ -60,6 +65,7 @@
         "img": "https://d1jpltibqvso3j.cloudfront.net/images/product/328000/327714/250X360/327714.png",
         "author" : "অরুণ কুমার বিশ্বাস",
         "comment" : "আত্মউন্নয়নমূলক বই ",
+        "comment_name": "Jodu",
         "authorImage": "https://www.observerbd.com/2018/02/24/1519490556.jpg",
         "price":"250",
         "rating": "3.5"
@@ -71,6 +77,7 @@
         "img": "https://d1jpltibqvso3j.cloudfront.net/images/product/326000/325096/250X360/325096.png",
         "author" : "ড. খালিদ আবু শাদি",
         "comment" : "Good & intersting",
+        "comment_name": "Modu",
         "authorImage": "https://www.ruhamashop.com/wp-content/uploads/2021/06/unnamed222.png",
         "price":"300",
         "rating": "4"
@@ -82,6 +89,7 @@
         "img": "https://d1jpltibqvso3j.cloudfront.net/images/product/328000/327908/250X360/327908.png",
         "author" : "কোচ কামরুল হাসান",
         "comment" : "বিপুল তথ্য ভান্ডারে জানা অজানা সন্ধানের মাঝে একটা সিদ্ধান্তেই আসতে পেরেছি , সফলতা হলো একটি আপেক্ষিক চিন্তামাত্র, এর কোন স্ট্যান্ডার্ড লাইন নেই। যা এখনো অবধি অসংজ্ঞায়িত।",
+        "comment_name": "Kodu",
         "authorImage": "https://d1jpltibqvso3j.cloudfront.net/images/author/307000/306266/250X360/306266.png",
         "price":"300",
         "rating": "5"
