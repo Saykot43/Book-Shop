@@ -54,7 +54,7 @@ const Home = () => {
         <div className=" items-center justify-center flex">
           <Link
             to="/review"
-            className="bg-slate-300 mt-10 ml-20 text-2xl text-cyan-500 p-5 px-60 rounded-xl font-semibold shadow-cyan-600 mt-14 px-0 text-center mb-32 navigate(`/review`)"
+            className="bg-slate-300 mt-10 ml-20 text-2xl text-cyan-500 p-5 px-60 rounded-xl font-semibold shadow-cyan-600 mt-14 text-center mb-32 navigate(`/review`)"
           >
             See All Review
           </Link>
