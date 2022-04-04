@@ -6,7 +6,7 @@ const BookReview = ({ book }) => {
     <div>
       <div className="shadow-lg rounded-2xl w-80 h-100 flex flex-col bg-white p-4 border-4 mt-10">
         <img
-          className="mx-auto object-center rounded h-60 w-80"
+          className="mx-auto object-center rounded-xl h-60 w-80 mb-3"
           src={img}
           alt=""
         />
