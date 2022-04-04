@@ -9,3 +9,8 @@ Markup :  - This project was build react and tailwind css
           - Use Rechart 
           - Use yarn
           - Custom json data file
+
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
